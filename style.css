@@ -1,0 +1,355 @@
+a:visited
+{
+    color: rgb(0, 0, 0);
+}
+
+a:link
+{
+    color: rgb(247, 247, 221);
+    
+}
+
+a
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img:hover
+{
+    transform: scale(2);
+}
+
+img
+{
+    border-radius: 50px;
+}
+
+h4
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+text
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+ul
+{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header
+{
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-radius: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(182, 182, 182)
+}
+
+.box
+{
+    padding:5px;
+    border:black;
+    border-radius: 50px;
+    background-image: url(https://i.pinimg.com/236x/ea/8a/03/ea8a03a952841c4fac4d0361fb811b01.jpg);
+    background-size:cover;
+}
+
+.wish
+{
+    color: rgb(129, 129, 129);
+    border: solid;
+    border-radius: 50px;
+    padding: 20px;
+    margin-left: 300px;
+    margin-right: 300px;
+    display: flex;
+    justify-content:space-between;
+    background-color: rgb(56, 56, 56);
+}
+
+.pic
+{
+    background-image:url(https://i.pinimg.com/236x/c5/d7/2b/c5d72b930989c5987904d03c59789dbd.jpg) ;
+    background-size: cover;
+    margin-right: 45px;
+    border-radius: 50px;
+    padding-top: 100px;
+    color: rgba(0, 0, 0, 0);
+}
+
+.thirdtier
+{
+  display: flex;
+  justify-content:safe;
+}
+
+.happy
+{
+    color: #c0c0c0;
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    margin-left: 300px;
+    background-color: #9b0000;
+}
+
+.you
+{
+    color: rgb(165, 165, 165);
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    margin-right:300px;
+    background-color: rgb(0, 0, 0)
+}
+
+.footer
+{
+    color: rgb(247, 247, 247);
+    border: solid;
+    border-radius: 50px;
+    padding: 5px;
+    display: flex;
+    justify-content: center;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: rgb(179, 179, 179)
+}
+
+.songnval
+{
+   display: flex;
+   justify-content:unset;
+
+}
+
+.song
+{
+    color: #573821;
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    width:200px;
+    height:200px;
+    margin-left:300px;
+    background-color: #b88b7c;
+    margin-top:10px;
+}
+
+.lyric
+{
+    display: flex;
+    justify-content: center;
+    padding-right:25px;
+    padding-left:25px;
+}
+
+.singer
+{
+    padding-left:95px;
+}
+
+.play
+{
+    display: flex;
+    justify-content: center;
+}
+
+.values
+{
+    color: rgb(230, 201, 201);
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    background-color: rgb(182, 132, 112);
+    width:235px;
+    height:200px;
+    padding-right: 5px;
+    margin-top:10px;
+}
+
+.namjoon
+{
+    color: rgb(83, 57, 57);
+    border: solid;
+    border-radius: 50px;
+    padding: 20px;
+    padding-right: 5px;
+    background-image: url(https://i.pinimg.com/236x/fd/2b/76/fd2b761d0f5ba77198144fa7006bb7e0.jpg);
+    background-size: cover;
+    margin-right: 300px;
+    width: 50px;
+    margin-top:10px;
+}
+
+.heart
+{
+    color: rgb(0, 0, 0);
+    border: solid;
+    border-radius: 50px;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-left: 300px;
+    margin-right: 300px;
+    background-color: #692128;
+}
+
+.floor
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 5px;
+    margin-right: 300px;
+    margin-left: 300px;
+}
+
+.swag
+{
+    color: #940002;
+    border: solid;
+    border-radius: 50px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    background-color: #EAA797;
+}
+
+.link
+{
+    color: rgb(104, 87, 61);
+    border: solid;
+    border-radius: 50px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    margin-left:5px;
+    width: 200px;
+    background-color: #FF6961;
+}
+
+.two
+{
+    background-image: url(https://i.pinimg.com/236x/58/df/59/58df59e8d2585be0acdda0a297ffd094.jpg);
+    background-size: cover;
+    border-radius: 50px;
+}
+
+.wooyoung
+{
+   display: flex;
+   justify-content: center;
+}
+
+.wcake
+{
+    color: rgba(83, 57, 57, 0);
+    border: solid;
+    border-color: rgb(48, 7, 82);
+    border-radius: 50px;
+    padding-right: 20px;
+    width: 200px;
+    height: 200px;
+    background-image: url(https://i.pinimg.com/236x/8b/fd/35/8bfd35d67fe2ed10d6cb4d458790552a.jpg);
+    background-size: cover;
+    margin-left: 300px;
+    margin-top:10px;
+}
+
+.final
+{
+    color: #5C557D;
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    margin-right: 300px;
+    margin-top: 10px;
+    display: flex;
+    justify-content:space-between;
+    background-color: #ddd5df;
+    width: 350px;
+    height:180px
+}
+
+.decor
+{
+    color: rgba(83, 57, 57, 0);
+    border: solid;
+    border-color: rgb(139, 107, 165);
+    border-radius: 50px;
+    padding-right: 20px;
+    width: 560px;
+    height: 300px;
+    background-image: url(https://i.pinimg.com/564x/f0/d3/7a/f0d37a060ee7022ba2ad8b2fffc9faa8.jpg);
+    background-size: cover;
+    margin-left: 300px;
+    margin-top:10px;
+}
+
+.wgif
+{
+    color: rgba(83, 57, 57, 0);
+    border: solid;
+    border-color: rgb(48, 7, 82);
+    border-radius: 50px;
+    padding-right: 20px;
+    width: 200px;
+    height: 200px;
+    background-image: url(https://i.pinimg.com/236x/d0/42/b7/d042b734405477412d5d670c4f6e7ca5.jpg);
+    margin-left: 300px;
+    margin-top:10px;
+}
+
+.rickroll
+{
+    color: #391386;
+    border: solid;
+    border-radius: 50px;
+    padding: 10px;
+    margin-top: 10px;
+    background-color: #E8C39E;
+    width: 230px;
+    height:180px;
+}
+
+.home
+{
+    color: rgb(224, 194, 148);
+    border: solid;
+    border-radius: 50px;
+    padding: 15px;
+    display: flex;
+    justify-content: center;
+    margin-left:5px;
+    margin-right: 300px;
+    width: 100px;
+    margin-top: 10px;
+    background-color: #853f97;
+}
+
+.gif
+{
+    display: flex;
+    justify-content: center;
+}
+
+.three
+{
+    background-image: url(https://i.pinimg.com/236x/4a/1b/e8/4a1be8904695e9327f0f861242331d89.jpg);
+    background-size: cover;
+    border-radius: 50px;
+}
